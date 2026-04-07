@@ -16,4 +16,4 @@ AI챗봇을 활용하여 더 쉽고 능동적으로 공부하는 요령도 중�
 - 기초가 부족하다고 생각되시면 [홍정모의 파이썬 프로그래밍 추월코스](https://www.honglab.ai/courses/python)를 통해 탄탄한 기본기를 확보하실 수 있습니다.
 - [파트1. 딥러닝 첫걸음 (무료)](https://www.honglab.ai/courses/aipt1)으로 큰 틀을 대강 잡아놓고 다른 기초 교재를 보시는 것도 좋습니다. 한국은 기초 교재가 매우 잘 발달해 있습니다.
 
-### 파트2. Coming Soon...
+### [LLM 바닥부터 만들기 - 파트1. 통계적 언어모델의 원리](https://www.honglab.ai/courses/llmpt1)가 출시되었습니다!
