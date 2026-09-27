@@ -402,3 +402,6 @@ FodyWeavers.xsd
 autograd_graph
 autograd_graph.pdf
 *.pth
+
+# Python virtual environment
+.venv/
